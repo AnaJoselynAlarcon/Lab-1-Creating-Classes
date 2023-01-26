@@ -1,0 +1,8 @@
+C:\Users\josel\OneDrive\Documentos\OOP2 Winter2023\Lab Creating Classes\Lab Creating Classes\obj\Debug\Lab Creating Classes.csproj.AssemblyReference.cache
+C:\Users\josel\OneDrive\Documentos\OOP2 Winter2023\Lab Creating Classes\Lab Creating Classes\obj\Debug\Lab Creating Classes.csproj.SuggestedBindingRedirects.cache
+C:\Users\josel\OneDrive\Documentos\OOP2 Winter2023\Lab Creating Classes\Lab Creating Classes\obj\Debug\Lab Creating Classes.csproj.CoreCompileInputs.cache
+C:\Users\josel\OneDrive\Documentos\OOP2 Winter2023\Lab Creating Classes\Lab Creating Classes\bin\Debug\Lab Creating Classes.exe.config
+C:\Users\josel\OneDrive\Documentos\OOP2 Winter2023\Lab Creating Classes\Lab Creating Classes\bin\Debug\Lab Creating Classes.exe
+C:\Users\josel\OneDrive\Documentos\OOP2 Winter2023\Lab Creating Classes\Lab Creating Classes\bin\Debug\Lab Creating Classes.pdb
+C:\Users\josel\OneDrive\Documentos\OOP2 Winter2023\Lab Creating Classes\Lab Creating Classes\obj\Debug\Lab Creating Classes.exe
+C:\Users\josel\OneDrive\Documentos\OOP2 Winter2023\Lab Creating Classes\Lab Creating Classes\obj\Debug\Lab Creating Classes.pdb
